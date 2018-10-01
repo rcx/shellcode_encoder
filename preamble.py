@@ -28,8 +28,9 @@ def load_rdx_i64(i64):
 def load_rdx_offset(r64, o16):
     check_r64(r64)
     check_o16(o16)
-    shellcode  = encoder.zero_rax() # save zero into rbx for next step
-    shellcode += asm('push %s; pop rax' % (r64,))
+    shellcode  = asm('push %s; push rax' % (r64,)) # save value and allocate space
+    shellcode += encoder.zero_rax() # save zero into rbx for next step
+    shellcode += asm('pop rax; pop rax') # deallocate space and restore value
     shellcode += encoder.add_ax(o16)
     shellcode += load_rdx_r64('rax')
     return shellcode
