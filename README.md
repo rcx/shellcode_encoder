@@ -38,12 +38,12 @@ e8c5ffffff2f7072 => 51424b2d33383b23 68457d3f3f2b7076
 Assembling jump at +408
 
 Encoding preamble for rdx <- rax+0x150
-TAYAXVI31VXPXf-0~f-@Bf-@>PZ
+PPTAYAXVI31VXXXf-0~f-@Bf-@>PZ
 
 Original length: 72
 Encoded length:  556
-Preamble length: 27
-Total length:    583
+Preamble length: 29
+Total length:    585
 
-TAYAXVI31VXPXf-0~f-@Bf-@>PZTAYAXVI31VXPP[_Hc4:14:SX-p(53-t __5T<o_P^14:WX-|o?~-@PB@-@@~AP_Hc4:14:SX-PP@y-t0 i5tp0YP^14:WX-|o?~-@PB@-@@~AP_Hc4:14:SX-$Ht -_`l 5O_W6P^14:WX-|o?~-@PB@-@@~AP_Hc4:14:SX-@"3@-p`  5TG/XP^14:WX-|o?~-@PB@-@@~AP_Hc4:14:SX-@3F2-p  ~5X/__P^14:WX-|o?~-@PB@-@@~AP_Hc4:14:SX- Gu - !`@5EW_wP^14:WX-|o?~-@PB@-@@~AP_SX- `Ba- @BA5X^{]P_Hc4:14:SX-*90 -E'  5n}?/P^14:WX-|o?~-@PB@-@@~AP_SX- `@a- @PA5\^o]P^SX-@@@"-y``~5____P_AAAAE7]qhrBFo@GHrh(NEdSU}#"'~>}-kri}aZ(QP0GRl?LHHdJGAxu{W}hiB?o_AqPU=}S~0|tXiO7)JrbXA#; +@bgIu8R>w@mCf~u:odC{_,[+DFQQBK-38;#hE}??+pv]wKfx2W?;U=oM~[U
+PPTAYAXVI31VXXXf-0~f-@Bf-@>PZTAYAXVI31VXPP[_Hc4:14:SX-p(53-t __5T<o_P^14:WX-|o?~-@PB@-@@~AP_Hc4:14:SX-PP@y-t0 i5tp0YP^14:WX-|o?~-@PB@-@@~AP_Hc4:14:SX-$Ht -_`l 5O_W6P^14:WX-|o?~-@PB@-@@~AP_Hc4:14:SX-@"3@-p`  5TG/XP^14:WX-|o?~-@PB@-@@~AP_Hc4:14:SX-@3F2-p  ~5X/__P^14:WX-|o?~-@PB@-@@~AP_Hc4:14:SX- Gu - !`@5EW_wP^14:WX-|o?~-@PB@-@@~AP_SX- `Ba- @BA5X^{]P_Hc4:14:SX-*90 -E'  5n}?/P^14:WX-|o?~-@PB@-@@~AP_SX- `@a- @PA5\^o]P^SX-@@@"-y``~5____P_AAAAE7]qhrBFo@GHrh(NEdSU}#"'~>}-kri}aZ(QP0GRl?LHHdJGAxu{W}hiB?o_AqPU=}S~0|tXiO7)JrbXA#; +@bgIu8R>w@mCf~u:odC{_,[+DFQQBK-38;#hE}??+pv]wKfx2W?;U=oM~[U
 ```
